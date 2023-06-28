@@ -15,6 +15,7 @@ public class exceptiontesting {
         System.out.println("this is addition of git");
         //another line added as comment
         //second comment to the java code
+        //no friends
         } 
         catch (ArithmeticException b)
         {
