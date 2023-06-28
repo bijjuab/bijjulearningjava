@@ -14,6 +14,7 @@ public class exceptiontesting {
         System.out.println("The value of z =" +z);
         System.out.println("this is addition of git");
         //another line added as comment
+        //second comment to the java code
         } 
         catch (ArithmeticException b)
         {
